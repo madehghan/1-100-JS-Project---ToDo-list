@@ -23,11 +23,7 @@ This project is part of a *100 JavaScript Projects Challenge* to improve coding 
 - CSS
 - JavaScript
 
-### 📦 How to Run
-```bash
-git clone https://github.com/yourusername/1-100-JS-Project---ToDo-list.git
-cd 1-100-JS-Project---ToDo-list
-open index.html
+
 
 یک برنامه ساده ✅ برای مدیریت لیست کارها با استفاده از جاوااسکریپت
 شما می‌توانید:
@@ -54,3 +50,11 @@ CSS
 
 JavaScript
 
+
+
+
+### 📦 How to Run | نحوه اجرا
+```bash
+git clone https://github.com/yourusername/1-100-JS-Project---ToDo-list.git
+cd 1-100-JS-Project---ToDo-list
+open index.html
